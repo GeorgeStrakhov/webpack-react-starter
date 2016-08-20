@@ -4,6 +4,7 @@
 
 * `npm install`
 * `npm run dev`
+* open [http://localhost:8080](http://localhost:8080) and enjoy (livereload included)
 
 ## Build and deploy to gh-pages
 
